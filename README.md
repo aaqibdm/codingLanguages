@@ -1,5 +1,9 @@
 # **PlacePrep.com**
 
+## LIVE DEMO VIDEO
+
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7061586681967050752/">Click here to watch demo video of all website features</a>
+
 
 ## **Project Description**
 
